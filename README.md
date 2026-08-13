@@ -14,7 +14,7 @@ bairro) e contato direto por WhatsApp em cada imóvel, sem formulário e sem fri
 
 ## Demo
 
-https://corretor-imoveis-landing.vercel.app (preencher/atualizar após o deploy)
+https://corretor-imoveis-landing.vercel.app
 
 ## Screenshots
 
